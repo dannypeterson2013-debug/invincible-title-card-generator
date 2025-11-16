@@ -1,4 +1,4 @@
-# Invincible Title Card Generator
+and hes gay# Invincible Title Card Generator
 
 ![Title Card](https://invincible.shivank.dev/title-card.png)
 
